@@ -1,5 +1,4 @@
 # Expense Tracker
-   #### Video Demo:  https://www.youtube.com/watch?v=dvoKs4l0zqM
    #### Description: 
    The Expense Tracker is a Python-based program designed to insert, view, manage, and export your personal expenses to Excel. 
 It offers a menu-based interface that provides quick options for creating and managing expense records across multiple files.
